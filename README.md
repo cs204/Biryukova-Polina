@@ -1,2 +1,0 @@
-# Biryukova-Polina
-psets
